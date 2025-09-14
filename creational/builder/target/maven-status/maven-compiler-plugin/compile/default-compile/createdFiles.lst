@@ -1,3 +1,7 @@
+com/gustavooarantes/repository/dto/impl/UserWebDTO.class
 com/gustavooarantes/Client.class
+com/gustavooarantes/repository/dto/UserDTO.class
 com/gustavooarantes/entity/User.class
 com/gustavooarantes/entity/Address.class
+com/gustavooarantes/repository/impl/UserWebDTOBuilder.class
+com/gustavooarantes/repository/UserDTOBuilder.class

@@ -1,7 +1,7 @@
 /home/gustavo/Learning/design-patterns/creational/builder/src/main/java/com/gustavooarantes/Client.java
-/home/gustavo/Learning/design-patterns/creational/builder/src/main/java/com/gustavooarantes/dto/UserDTO.java
-/home/gustavo/Learning/design-patterns/creational/builder/src/main/java/com/gustavooarantes/dto/UserWebDTO.java
 /home/gustavo/Learning/design-patterns/creational/builder/src/main/java/com/gustavooarantes/entity/Address.java
 /home/gustavo/Learning/design-patterns/creational/builder/src/main/java/com/gustavooarantes/entity/User.java
 /home/gustavo/Learning/design-patterns/creational/builder/src/main/java/com/gustavooarantes/repository/UserDTOBuilder.java
-/home/gustavo/Learning/design-patterns/creational/builder/src/main/java/com/gustavooarantes/repository/UserWebDTOBuilder.java
+/home/gustavo/Learning/design-patterns/creational/builder/src/main/java/com/gustavooarantes/repository/dto/UserDTO.java
+/home/gustavo/Learning/design-patterns/creational/builder/src/main/java/com/gustavooarantes/repository/dto/impl/UserWebDTO.java
+/home/gustavo/Learning/design-patterns/creational/builder/src/main/java/com/gustavooarantes/repository/impl/UserWebDTOBuilder.java
