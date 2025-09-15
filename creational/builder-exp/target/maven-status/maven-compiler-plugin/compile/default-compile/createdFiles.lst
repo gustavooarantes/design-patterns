@@ -1,1 +1,6 @@
-com/gustavooarantes/App.class
+com/gustavooarantes/UserDTOBuilderImpl.class
+com/gustavooarantes/User.class
+com/gustavooarantes/Main.class
+com/gustavooarantes/UserDTOBuilder.class
+com/gustavooarantes/UserDTOImpl.class
+com/gustavooarantes/UserDTO.class
